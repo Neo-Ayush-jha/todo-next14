@@ -28,15 +28,18 @@ A simple and clean to-do list application built with **Next.js 14** using the **
     cd todo-next14
 
 ## Step 2: Install dependencies:
-```bash
+- Type this command:
+
+    ```bash
     npm install
 
 ## Step 3: Start the development server:
-```bash
+    
+    ```bash
     npm run dev
 
 ## Srep 4: Open your browser:
-Visit [http://localhost:3000](http://localhost:3000)
+    Visit [http://localhost:3000](http://localhost:3000)
 
 ## How to Test
     
